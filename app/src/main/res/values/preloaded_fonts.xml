@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/aldrich</item>
+        <item>@font/anaheim</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/baloo</item>
+        <item>@font/bangers</item>
+        <item>@font/bevan</item>
+        <item>@font/bonbon</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/chewy</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/lora</item>
+        <item>@font/marck_script</item>
+        <item>@font/paytone_one</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/rammetto_one</item>
+        <item>@font/ranchers</item>
+        <item>@font/rock_salt</item>
+        <item>@font/slackey</item>
+        <item>@font/ultra</item>
+        <item>@font/vampiro_one</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>
