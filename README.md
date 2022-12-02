@@ -43,7 +43,6 @@ with one another using android phone
 
 ## 📦 Getting Started
 
-###Interfaces
 
 1. Landing
    - Seamless landing page with `Login with Email and Password` button for user Login using Firebase Authentication 
