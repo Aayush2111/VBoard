@@ -4,7 +4,7 @@ Virtual Classroom Application
 
 <p><img src="https://www.pngarts.com/files/7/Online-Learning-PNG-Pic.png" alt="logo" width="20%" /></p>
 <p>
-    <h1>Virtual Classroom Android Applicattion</h1>
+    <h1>Virtual Classroom Android Application</h1>
 </p>
 
 
@@ -25,18 +25,6 @@ with one another using android phone
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [CDN](#cdn)
-  - [NPM](#npm)
-- [Usage](#usage)
-  - [Basic](#usage-basic)
-  - [React](#usage-react)
-  - [Vue](#usage-vue)
-- [Options](#options)
-- [Events](#events)
-- [Methods](#methods)
-- [Types](#types)
-- [Themes](#themes)
-- [Bug Reporting](#bug)
 - [Feature Request](#feature-request)
 - [Release Notes](#release-notes)
 - [License](#license)
@@ -85,41 +73,31 @@ with one another using android phone
 
 ## Points to remember while testing the app
 
-1. Allow **permissions** for camera and mic
-2. In case any **user is not broadcasted** it is probably due to server overload, **REFRESH** the window to solve this. 
-3. Make sure the **URL** is starting with https
-4. While **scheduling a meet** make sure the start and end date follow a logical sequence or else it’ll show an error. 
-5. While testing the **Posture** bot, allow permissions for the camera and allow **notifications**, and **REFRESH** the page for changes to take effect. 
-6. Wait for the model to analyze, and check for **notifications** 
-
+1. Allow **permissions** for Internet and Sharing Files
+2. In case you have forgotten your password, you can change your password by clicking "forgot password" on landing page. 
+3. Make sure you have latest android studio version
+4. Make sure your phone has android 11 or newer. 
 
 ## Instructions
 
 
-1. `git clone https://github.com/Apurva-tech/unite.git` 
-2. `cd ./unite`
-3. Install node dependencies 
-   - `npm install`
-4. Replace firebase API keys with your configurations
-5. Create a `.env` file 
-   - Add relevant credentials
-   - `cp .env.example .env` 
-5. `npm run dev`
-6. The app is now running at http://localhost:3030/landing 
+1. `git clone https://github.com/Aayush2111/VBoard.git` 
+2. `cd ./VBoard`
+3. Open Android Studio
+4. Click on "Open" to open this Project
+5. Now link your android device to android studio and install the application
+6. The app is now running at your android phone ;)
 
 
 ## Useful Links
 
-- [Deployed Website](https://unite-apurva.herokuapp.com/landing)
-- [Demo Video](https://youtu.be/OKKK1GOnlIU)
-- [Sprint Document](https://docs.google.com/presentation/d/11k8pLJPEV-XJwxIX4ysW9fKmHqFEZHcUWizFcFyVsns/edit?usp=sharing)
-- [Design Document](https://docs.google.com/document/d/1IJcEbbhsbQna-tgcnfV_9_RhXQi4SURlrl3-0HypArE/edit?usp=sharing)
+https://docs.google.com/document/d/1UmCEwbJNzeqCCldvGcZUCCY81uY_fJMm/edit?usp=sharing&ouid=118349965188314901301&rtpof=true&sd=true
 
 ## Need help?
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/apurva866/) 
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/aayushprofile/) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mind.wrapper/) [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/mindwrapper) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@apurva866)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/aayushxz/) [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/aayusharora19) [![Portfolio](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://aayush2111.github.io/)
 
 ---------
 
