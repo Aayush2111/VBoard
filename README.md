@@ -64,10 +64,21 @@ with one another using android phone
 4. Join Class
    - Enter the copied Class ID in a form and join the room with your batch mates
    - ![image](https://user-images.githubusercontent.com/85586404/205282305-6046c054-dd49-433c-975d-1015049e0e79.png)
+   
 
-5. Upload PDF FILES
+5. Dashboard
+   - View your class Dashboard
+   - ![1](https://user-images.githubusercontent.com/85586404/205641074-612f0a63-9dbc-4fbe-9dfa-684ddabf9a19.png)
+
+
+6. Upload PDF FILES
    - Share Notes and PDF files with your batch mates 
    - ![image](https://user-images.githubusercontent.com/85586404/205282885-043955c9-052c-4f9f-9a82-be937f2765ee.png)
+ 
+ 
+7. View PDF FILES
+   - View all PDF files and notes in one folder
+   - ![2](https://user-images.githubusercontent.com/85586404/205641324-329f928f-f00d-4094-a74d-640a3b749586.png)
 
 
 ## Points to remember while testing the app
